@@ -1,7 +1,7 @@
-College Group Project By: 
+DBMS College Group Project By: 
 
-Nandini kapoor 
+Nandini kapoor- BT19CSE056
 
-Prabhu Satyam
+Prabhu Satyam - BT19CSE046
 
-Yan
+Yashashree Ganthale - BT19CSE013
